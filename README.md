@@ -1,4 +1,3 @@
-```markdown
 # Empty Folders Scanner
 
 This PowerShell script scans a specified location for empty folders and logs their names to a text file.
